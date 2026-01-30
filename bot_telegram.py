@@ -1,6 +1,6 @@
 import os
 import telebot
-from api import Clima
+from api_Clima import Clima
 from dotenv import load_dotenv
 
 
